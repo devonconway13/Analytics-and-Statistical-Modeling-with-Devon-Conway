@@ -1,7 +1,8 @@
 ---
-title: "About this blog"
+title: "About Devon Conway"
 description: |
-  Some additional details about the blog
+  I’m currently a master’s student at Northeastern University studying analytics and statistical modeling. To back track, I attended the University of Tampa to acquire my bachelor's degree in finance. While at UT, I was a member of the women’s soccer team and sports editor for the school newspaper. I learned a lot during my time at UT, but it was not until I started working with the Tampa Bay Lightning in the hockey operations department doing analytics that I felt an intense passion about my work. As with life, a lot of trial and error happening when I decided take a job I was not fully passionate about with the Florida Panthers. When COVID first hit, I decided life was too short to wake up everyday without a true yearn to do my work. I decided to earn my yoga teaching certification and start my master’s program. I’m 3/4 of the way done my program, and I decided to start the website as a resume builder but to also showcase my passion for analytics and hockey. 
+  In my free time, I enjoy spending time with my french bulldog, watching hockey, relaxing at a local coffee shop, working out, and eating a plant-based diet. I’ll leave you with my favorite quote, “Don’t Fail The Plan, Make The Plan Fail You.”
 ---
 
 ```{r setup, include=FALSE}
