@@ -1,0 +1,15 @@
+---
+title: "Web Scrapping and Storage 101"
+author: Devon Conway
+date: January 7, 2021
+output: 
+word_document: 
+reference_docx: Web-Scrapping-and-Storage.docx
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+

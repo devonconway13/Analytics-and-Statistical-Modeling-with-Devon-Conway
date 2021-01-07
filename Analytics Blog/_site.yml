@@ -3,6 +3,7 @@ title: "Analytics and Statistical Modeling with Devon Conway"
 description: |
   Analytics and Statistical Modeling with Devon Conway
 output_dir: "docs"
+theme: theme.css
 navbar:
   right:
     - text: "Home"
